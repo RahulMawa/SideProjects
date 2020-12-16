@@ -1,6 +1,6 @@
 # FlaskProjects
 ------------------------------
-What all I have done in Flask (using HTML5, CSS, Bootstrap, JS, SQLite, Django, JinJa) 
+ABout this repo: This repo has all that I have done (that I can publically share) in Flask (using HTML5, CSS, Bootstrap, JS, SQLite, Django, JinJa) 
 through projects that I did for some online courses / for myself in my free time.
 
 ------------------------------
@@ -14,6 +14,6 @@ and if you're one of those people, then my latest Flask Project is the last file
 Also, I make some videos on Youtube under the channel name: 'Developer Mawa'. 
 
 So, if you're interested in the hackathon projects that I make, 
-alongside some sort of casual Arduino / Python / Data Science related projects that I make,
+alongside some sort of casual Arduino / Python / Data Science related projects that I play around with,
 then you should check out my content there:
 https://www.youtube.com/channel/UCiiFr__dhVtO5us932xGpww
