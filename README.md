@@ -1,6 +1,6 @@
 # FlaskProjects
 ------------------------------
-ABout this repo: This repo has all that I have done (that I can publically share) in Flask (using HTML5, CSS, Bootstrap, JS, SQLite, Django, JinJa) 
+About this repo: This repo has all that I have done (that I can publically share) in Flask (using HTML5, CSS, Bootstrap, JS, SQLite, Django, JinJa) 
 through projects that I did for some online courses / for myself in my free time.
 
 ------------------------------
