@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Phone Number Tracker</title>
+</head>
+
+
+<body>
+<h1>Welcome! Fill out the Phone Number you want to track!</h1>
+
+<form method="POST">
+    {{ form.hidden_tag() }}
+
+    {{ form.num.label }} {{ form.num }}
+
+    <br>
+    {{ form.submit() }}
+
+</form>
+
+</body>
+
+</html>
