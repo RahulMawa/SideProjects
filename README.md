@@ -1,14 +1,12 @@
-# FlaskProjects
+# SideProjects
 ------------------------------
-About this repo: This repo has all that I have done (that I can publically share) in Flask (using HTML5, CSS, Bootstrap, JS, SQLite, Django, JinJa) 
-through projects that I did for some online courses / for myself in my free time.
+About this repo: This repo has all that I have done (that I can publically share) as my Side Projects when I am bored, or want to experiment with something new, or when I am actively participating along an Online Course.
 
 ------------------------------
-This repo is made specially to show my gradual progress in learning Flask and
+This repo is made specially to show my gradual progress in my Programming skills (for various languages/purposes)
 the projects that I make on the way. 
 
-This is ideally targetted towards people who are interested to check my skills in this field,
-and if you're one of those people, then my latest Flask Project is the last file that I have uploaded here.
+This is ideally targetted towards people who are interested to check the progression of my programming skills/career.
 
 ------------------------------
 Also, I make some videos on Youtube under the channel name: 'Developer Mawa'. 
